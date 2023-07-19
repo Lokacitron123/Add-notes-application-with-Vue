@@ -1,29 +1,16 @@
-# vue-notes
+# Add notes application with Vue 3
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a small project for testing out Vue 3. The things I've learned from this little project is on a basic level how Vue 3 works.
+I have learned:  
 
-## Recommended IDE Setup
+1. Vue's ref method to connect data throughout the application
+2. Vue's v-if and v-for methods for rendering html in my template
+3. Vue's onMounted and watch methods
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
-```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
